@@ -1,2 +1,7 @@
 # MY-PROJECT
-MY PROJECTS CONTAINS A COLLECTION  OF PROJECTS THAT HELPS COLLEGE STUDENTS IN THEIR ACADEMICS PROJECT.
+RESUME ANALYSER 
+Features
+
+✅ ATS Score Calculation – Checks how ATS-friendly your resume is.
+
+✅ Resume Preview – Shows your resume in a clean, readable format.
