@@ -1,6 +1,7 @@
 # MY-PROJECT
 RESUME ANALYSER 
-Features
+
+FEATURES:
 
 ✅ ATS Score Calculation – Checks how ATS-friendly your resume is.
 
